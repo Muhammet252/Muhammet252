@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Muhammet252/Muhammet252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Muhammet Hanifi Yıldırım | Developer & Dreamer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Hakkımda
+Ben, hayallerini koda dökmeyi seven, **azimli** ve **hayalperest** bir yazılım geliştiriciyim. Dijital dünyalar inşa etmeye olan tutkum, beni **Unreal Engine** ile oyun tasarlamaya ve hem **mobil** hem de **masaüstü** platformlarda çalışan kullanıcı odaklı uygulamalar geliştirmeye itiyor.
+
+- 🌱 Şu an bilgisayar programcılığı üzerine eğitim alıyor ve modern yazılım mimarilerini keşfediyorum.
+- 🎮 Oyun mekanikleri ve 3D dünyalar tasarlamak en büyük hobim ve işim.
+- 💻 Full-stack geliştirme süreçlerinde C#, Kotlin ve React gibi teknolojilerle projeler üretiyorum.
+- 🎯 Hedefim; her zaman sınırları zorlayan, görsel estetiği yüksek ve performanslı yazılımlar ortaya koymak.
+
+---
