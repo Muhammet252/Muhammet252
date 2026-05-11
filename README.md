@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=flat&color=000000&height=150&section=header&text=MUHAMMET%20HANİFİ&fontSize=70&fontColor=BD18E1" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammet252&show_icons=true&theme=transparent&title_color=BD18E1&text_color=ffffff&icon_color=BD18E1&hide_border=true" alt="stats" />
+</p>
 ## Hi there 👋
 
 
