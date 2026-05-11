@@ -1,7 +1,3 @@
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammet252&show_icons=true&theme=transparent&title_color=BD18E1&text_color=ffffff&icon_color=BD18E1&hide_border=true" alt="stats" />
-</p>
 ## Hi there 👋
 
 
