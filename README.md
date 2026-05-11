@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=flat&color=000000&height=150&section=header&text=MUHAMMET%20HANİFİ&fontSize=70&fontColor=BD18E1" />
+</p>
+
 ## Hi there 👋
+
 
 # 🚀 Muhammet Hanifi Yıldırım | Developer & Dreamer
 
