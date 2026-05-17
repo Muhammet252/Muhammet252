@@ -5,13 +5,16 @@
 
 ---
 
-### ⚡ Hakkımda
-Ben, hayallerini koda dökmeyi seven, **azimli** ve **hayalperest** bir yazılım geliştiriciyim. Dijital dünyalar inşa etmeye olan tutkum, beni **Unreal Engine** ile oyun tasarlamaya ve hem **mobil** hem de **masaüstü** platformlarda çalışan kullanıcı odaklı uygulamalar geliştirmeye itiyor.
+### ⚡ About Me
+I am a determined and visionary software developer who loves turning dreams into code. My passion for building digital worlds drives me to design games with Unreal Engine and develop user-centric applications that run seamlessly on both mobile and desktop platforms.
 
-- 🌱 Şu an bilgisayar programcılığı üzerine eğitim alıyor ve modern yazılım mimarilerini keşfediyorum.
-- 🎮 Oyun mekanikleri ve 3D dünyalar tasarlamak en büyük hobim ve işim.
-- 💻 Full-stack geliştirme süreçlerinde C#, Kotlin ve React gibi teknolojilerle projeler üretiyorum.
-- 🎯 Hedefim; her zaman sınırları zorlayan, görsel estetiği yüksek ve performanslı yazılımlar ortaya koymak.
+🌱 I am currently studying computer programming and exploring modern software architectures.
+
+🎮 Designing game mechanics and 3D worlds is my ultimate hobby and profession.
+
+💻 I build projects across full-stack development processes using technologies like C#, Kotlin, and React.
+
+🎯 My goal is always to push boundaries and deliver high-performance software with high visual aesthetics.
 
 ---
 
