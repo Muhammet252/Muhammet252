@@ -21,7 +21,8 @@ I am a determined and visionary software developer who loves turning dreams into
 MY APPLICATION
 
 CLENA
-<img width="1024" height="1024" alt="1icon" src="https://github.com/user-attachments/assets/655cc401-e3ec-4b3a-b3b0-a67dbab405ac" />
+
+<img width="300" height="300" alt="1icon (1)" src="https://github.com/user-attachments/assets/0f8ccfa4-1b6d-493a-a395-c1ba747bba35" />
 
 https://muhammet252.github.io/clena/Portfolyo/
 
